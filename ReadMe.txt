@@ -1,10 +1,11 @@
 
 Tarpan Patel
+tarpan_patel@student.uml.edu
 91.61 GUI Programming I Assignment: Creating First Webpage
 Tarpan Patel Umass Lowell Computer Science, tarpan_patel@student.uml.edu
 Copyright (c) 2013 by Tarpan Patel. All rights reserved.
-File
-
+File script.js, style.css
+https://github.com/tarpan96/GUIHW5.git
 
 For this assignment, I didn't meet the requirement. I had hard time understanding 
 on creating table using javascript as well as some error messages I couldn't figure out the causes. In this assignment, users were asked for valid inputs
